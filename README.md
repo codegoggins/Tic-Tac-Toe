@@ -10,6 +10,6 @@ The Game also shows the score of user who takes X and O respectively . The score
 
 Want to play the game ??
 
-Click on the link below !
+Click on the link :
 https://clever-bunny-4aa7b8.netlify.app
 
