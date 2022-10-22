@@ -8,3 +8,8 @@ Restart Game removes any O or X in the grid.
 
 The Game also shows the score of user who takes X and O respectively . The score is reset to zero once the user reloads the page.
 
+Want to play the game ??
+
+Click on the link below !
+https://clever-bunny-4aa7b8.netlify.app
+
